@@ -1,6 +1,6 @@
 # Flappy-bird
 
-Projeto do curso de programação web
+Um joguinho inspirado no flappy bird
 
 ## Tecnologias
 - JavaScript
